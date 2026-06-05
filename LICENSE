@@ -1,0 +1,76 @@
+Pagora Core Binary License
+Document version: LICENSE-v0.1.1
+
+Copyright (c) 2026 Pagora Project.
+All rights reserved.
+
+This license applies to the binary distribution of Pagora Core.
+It does not grant any rights to source code unless a separate written license says otherwise.
+
+1. Grant of Use
+
+You may download, install, and use Pagora Core free of charge for:
+
+- personal use;
+- internal organizational use;
+- non-commercial use; and
+- evaluation use.
+
+You may use Pagora Core on computers and networks that you control, including a private home LAN, an internal organizational LAN, or access through a private VPN.
+
+2. No Source Code Rights
+
+This license does not grant any right to access, copy, modify, build, publish, or distribute the source code of Pagora Core.
+
+3. Restrictions
+
+You may not, without prior written permission from the copyright holder:
+
+- redistribute Pagora Core;
+- mirror or rehost Pagora Core for public download;
+- sell, rent, lease, sublicense, or otherwise commercially distribute Pagora Core;
+- modify, adapt, translate, or create derivative works of Pagora Core;
+- distribute modified or repackaged versions of Pagora Core;
+- remove, alter, or obscure copyright notices, license notices, or attribution notices;
+- reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of Pagora Core, except to the extent such restriction is prohibited by applicable law;
+- use Pagora Core to provide public hosting, commercial hosting, software-as-a-service, managed service, multi-tenant service, or any service for third parties;
+- use the name "Pagora" or related marks to imply endorsement, official status, or affiliation for an unofficial distribution or service.
+
+4. User Content
+
+Pagora Core is a local library viewer/server. This license does not grant you any rights to manga, books, images, archives, metadata, or other content that you use with Pagora Core.
+
+You are responsible for ensuring that you have the necessary rights to use your own content with Pagora Core.
+
+5. Updates
+
+Updates to Pagora Core may be provided under this license or under a later license. Installing or using an updated version means that the license included with that version applies to that version.
+
+6. Termination
+
+If you violate this license, your permission to use Pagora Core terminates automatically.
+
+Upon termination, you must stop using Pagora Core and delete copies of the Pagora Core binary distribution in your possession or control, except where retention is required by applicable law.
+
+7. Disclaimer of Warranty
+
+Pagora Core is provided "AS IS", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, title, and non-infringement.
+
+8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the copyright holder and
+contributors shall not be liable for any claim, damages, loss, or other
+liability arising from or related to Pagora Core or the use of Pagora Core,
+whether in contract, tort, or otherwise.
+
+This includes, without limitation, data loss, service interruption, system
+downtime, configuration conflicts, port conflicts, permission changes, security
+incidents, incompatibility with existing software or services, or interference
+with other software, services, or systems, even if advised of the possibility
+of such damages.
+
+9. Reservation of Rights
+
+All rights not expressly granted in this license are reserved by the copyright holder.
+
+End of License
