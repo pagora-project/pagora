@@ -73,8 +73,8 @@ LICENSE
 公開ページから Linux x86_64 用 tar.gz を取得し、展開します。
 
 ```bash
-tar -xzf pagora-core-linux-x86_64-v0.1.1-xxxxxxx.tar.gz
-cd pagora-core-linux-x86_64-v0.1.1-xxxxxxx
+tar -xzf pagora-core-linux-x86_64-v0.1.2-xxxxxxx.tar.gz
+cd pagora-core-linux-x86_64-v0.1.2-xxxxxxx
 sudo bash scripts/install_public.sh
 ```
 
