@@ -73,8 +73,8 @@ LICENSE
 Download the Linux x86_64 tar.gz package from the public release page and extract it.
 
 ```bash
-tar -xzf pagora-core-linux-x86_64-v0.1.1-xxxxxxx.tar.gz
-cd pagora-core-linux-x86_64-v0.1.1-xxxxxxx
+tar -xzf pagora-core-linux-x86_64-v0.1.2-xxxxxxx.tar.gz
+cd pagora-core-linux-x86_64-v0.1.2-xxxxxxx
 sudo bash scripts/install_public.sh
 ```
 
